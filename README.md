@@ -18,16 +18,30 @@ I'm currently working on...
 
 📫 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur) 
+[![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saad-bin-manjur-adit-5173b3100/)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.saadbinmanjuradit@gmail.com)
 
-👨‍💻 My other profiles
+
+👨‍💻 My other profile
 
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/a47412f16586e575f7118bfaf364fe21)
-[![Acclaim](https://user-images.githubusercontent.com/49765532/99178092-2490fc00-273a-11eb-850b-429fa735f573.png)](https://www.youracclaim.com/users/saadbinmanjuradit/badges)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+
+⚙ Tools and Technologies
+
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibm)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
+
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
