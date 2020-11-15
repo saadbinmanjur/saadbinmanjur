@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**saadbinmanjur/saadbinmanjur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Adit, I am an enthusiast learner of Data Science, Data Analysis and Machine Learning. I love to know to extract the truth from data and to visualize that for making it easy to understand for anyone. I believe that the insight into data the more I know about data. 
 
-Here are some ideas to get you started:
 
-- 🔭 Data Scieence Intern at The Sparks Foundation
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+I'm currently working on...
+
+🔭 Engaged in internship of Data Scieence Intern at The Sparks Foundation
+
+🌱 Studing on Computer Science & Engineering at University of Science and Technology Chittagong
+
+👯 I’m looking to collaborate on data science and machine learning projects
+
+🤔 I’m looking for a job to explore more in data science by working with teams.
+
+💬 Ask me about your interest that matched with me
+
+
+📫 How to reach me:
+
+[![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saad-bin-manjur-adit-5173b3100/)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.saadbinmanjuradit@gmail.com)
+
+👨‍💻 My other profiles
+
+[![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/a47412f16586e575f7118bfaf364fe21)
+[![Acclaim](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/a47412f16586e575f7118bfaf364fe21)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
