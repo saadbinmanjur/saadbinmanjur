@@ -5,9 +5,9 @@ I am Adit, I am an enthusiast learner of Data Science, Data Analysis and Machine
 
 I'm currently working on...
 
-🔭 Engaged in internship of Data Scieence Intern at The Sparks Foundation
+🔭 Engaged in the internship of Data Science Intern at The Sparks Foundation
 
-🌱 Studing on Computer Science & Engineering at University of Science and Technology Chittagong
+🌱 Studying Computer Science & Engineering at University of Science and Technology Chittagong
 
 👯 I’m looking to collaborate on data science and machine learning projects
 
