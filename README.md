@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 I am Adit, I am an enthusiast learner of Data Science, Data Analysis and Machine Learning. I love to know to extract the truth from data and to visualize that for making it easy to understand for anyone. I believe that the insight into data the more I know about data. 
 
@@ -20,6 +20,7 @@ I'm currently working on...
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saad-bin-manjur-adit-5173b3100/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Sagar-yellowgreen)](https://www.kaggle.com/saadbinmanjuradit)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.saadbinmanjuradit@gmail.com)
 
 
