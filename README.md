@@ -20,7 +20,7 @@ I'm currently working on...
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saad-bin-manjur-adit-5173b3100/)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Sagar-yellowgreen)](https://www.kaggle.com/saadbinmanjuradit)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Adit-blue)](https://www.kaggle.com/saadbinmanjuradit)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.saadbinmanjuradit@gmail.com)
 
 
