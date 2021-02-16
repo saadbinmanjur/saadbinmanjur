@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I am Adit, I am an enthusiast learner of Data Science, Data Analysis and Machine Learning. I love to know to extract the truth from data and to visualize that for making it easy to understand for anyone. I believe that the insight into data the more I know about data. 
+I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machine Learning. I love to know to extract the truth from data and to visualize that for making it easy to understand for anyone. I believe that the insight into data the more I know about data. 
 
 
 I'm currently working on...
