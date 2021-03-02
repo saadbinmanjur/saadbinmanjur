@@ -5,7 +5,7 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 
 I'm currently working on...
 
-🔭 Engaged in the internship of Data Science Intern at Technocolabs
+🔭 Engaged in some personal projects along with Kaggle competitions
 
 🌱 Studying Computer Science & Engineering at University of Science and Technology Chittagong
 
