@@ -5,15 +5,15 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 
 I'm currently working on...
 
-🔭 Engaged in some personal projects along with Kaggle competitions.
+🔭 Engaged in some personal projects along with Kaggle competitions
 
-🌱 Studying Computer Science & Engineering at University of Science and Technology Chittagong.
+🌱 Studied Computer Science & Engineering at University of Science and Technology Chittagong
 
-👯 I’m looking to collaborate on data science and machine learning projects.
+👯 I’m looking to collaborate on data science and machine learning projects
 
-🤔 I’m looking for a job to explore more in data science by working with teams.
+🤔 I’m looking for a job to explore more in data science by working with teams
 
-💬 Ask me about your interest that matched with me.
+💬 Ask me about your interest that matched with me
 
 
 📫 Connect with me:
