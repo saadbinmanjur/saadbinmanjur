@@ -15,13 +15,16 @@ I'm currently working on...
 
 💬 Ask me about your interest that matched with me
 
+😄 Pronouns: Sa-ad Bin Ma-n-jur A-dit
+
+⚡ Fun fact: Data is my toy and I play with data
+
 
 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saadbinmanjuradit)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.saadbinmanjuradit@gmail.com)
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur)
-
 
 
 👨‍💻 My other profile
@@ -43,8 +46,3 @@ I'm currently working on...
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
-
-
-😄 Pronouns: Sa-ad Bin Ma-n-jur A-dit
-
-⚡ Fun fact: Data is my toy and I play with data
