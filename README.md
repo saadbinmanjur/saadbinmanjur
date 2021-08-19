@@ -47,6 +47,6 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadbinmanjur&layout=compact)](https://github.com/saadbinmanjur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadbinmanjur&layout=compact&hide_border=true)](https://github.com/saadbinmanjur/github-readme-stats)
 
 [![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbinmanjur&show_icons=true&hide_border=true)](https://github.com/saadbinmanjur/github-readme-stats)
