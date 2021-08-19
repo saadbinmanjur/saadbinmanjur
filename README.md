@@ -45,5 +45,6 @@ I'm currently working on...
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 
 
-- 😄 Pronouns: Sa-ad Bin Ma-n-jur A-dit
-- ⚡ Fun fact: Data is my toy and I play with data
+😄 Pronouns: Sa-ad Bin Ma-n-jur A-dit
+
+⚡ Fun fact: Data is my toy and I play with data
