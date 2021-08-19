@@ -2,7 +2,6 @@
 
 I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machine Learning. I love to know to extract the truth from data and to visualize that for making it easy to understand for anyone. I believe that the insight into data the more I know about data. 
 
-
 #### My present status...
 
 - 🔭 Engaged in some personal projects along with Kaggle competitions
@@ -26,13 +25,11 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.saadbinmanjuradit@gmail.com)
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/saadbinmanjur)
 
-
 #### 👨‍💻 My other profile:
 
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/hz4cP7SY)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Adit-blue)](https://www.kaggle.com/aditeloo)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/a47412f16586e575f7118bfaf364fe21)
-
 
 #### ⚙ Tools and Technologies:
 
