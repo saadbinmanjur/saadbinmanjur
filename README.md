@@ -11,7 +11,7 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 
 - 👯 I’m looking to collaborate on data science and machine learning projects
 
-- 🤔 I’m looking for a job to explore more in data science by working with teams
+- 🤔 And also looking for a job to explore more in data science by working with teams
 
 - 💬 Ask me about your interest that matched with me
 
