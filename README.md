@@ -7,7 +7,7 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 
 - 🔭 Engaged in some personal projects along with Kaggle competitions
 
-- 🌱 Studied B.Sc. in Computer Science & Engineering at University of Science and Technology Chittagong
+- 🌱 Pursuing Master's Degree in Applied Statistics and Data Science at Jahangirnagar University
 
 - 👯 I’m looking to collaborate on data science and machine learning projects
 
