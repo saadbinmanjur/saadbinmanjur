@@ -28,7 +28,7 @@ I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machi
 
 #### 👨‍💻 My other profile:
 
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/hz4cP7SY)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Zb9egMdY)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Adit-blue)](https://www.kaggle.com/aditeloo)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/a47412f16586e575f7118bfaf364fe21)
 
