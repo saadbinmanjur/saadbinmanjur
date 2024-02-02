@@ -7,7 +7,7 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 
 - 🔭 Learning every day and engaged in some personal projects along with Kaggle competitions
 
-- 🌱 Pursuing Master's Degree in Applied Statistics and Data Science at Jahangirnagar University
+- 🌱 Completed Master's Degree in Applied Statistics and Data Science at Jahangirnagar University
 
 - 👯 I’m looking to collaborate on data science and machine learning projects
 
