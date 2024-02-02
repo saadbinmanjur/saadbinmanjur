@@ -1,19 +1,19 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I am Adit, I am an enthusiastic learner of Data Science, Data Analysis and Machine Learning. I love to know to extract the truth from data and to visualize that for making it easy to understand for anyone. I believe that the insight into data the more I know about data. 
+I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine Learning. I love to know how to extract the truth from data and visualize that to make it easy for anyone to understand. I believe that the insight into data the more I know about data. 
 
 ---
 #### My present status...
 
-- 🔭 Learning everyday and engaged in some personal projects along with Kaggle competitions
+- 🔭 Learning every day and engaged in some personal projects along with Kaggle competitions
 
 - 🌱 Pursuing Master's Degree in Applied Statistics and Data Science at Jahangirnagar University
 
 - 👯 I’m looking to collaborate on data science and machine learning projects
 
-- 🤔 And I'm intrested to explore more in data science by working with teams
+- 🤔 And I'm interested to explore more in data science by working with teams
 
-- 💬 Ask me about your interest that matched with me
+- 💬 Ask me about your interest that matches with me
 
 - 😄 Pronouns: Sa-ad Bin Ma-n-jur A-dit
 
