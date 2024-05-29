@@ -51,5 +51,3 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saadbinmanjur)  
 
 [![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbinmanjur&show_icons=true&hide_border=true)](https://github.com/saadbinmanjur/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadbinmanjur)
