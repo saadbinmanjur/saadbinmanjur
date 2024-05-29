@@ -33,9 +33,7 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 
 #### ⚙ Tools and Technologies:
 
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibm)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -43,6 +41,8 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 ---
 
