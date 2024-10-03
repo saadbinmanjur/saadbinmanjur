@@ -28,7 +28,6 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 
 #### 👨‍💻 My other profile:
 
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jJ9QVxr6)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Adit-blue)](https://www.kaggle.com/aditeloo)
 
 #### ⚙ Tools and Technologies:
