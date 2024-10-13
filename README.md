@@ -41,7 +41,6 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 ---
 
