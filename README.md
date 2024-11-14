@@ -5,7 +5,7 @@ I am Adit, an enthusiastic learner of Data Science, Data Analysis, and Machine L
 ---
 #### My present status...
 
-- 🔭 Learning every day and engaged in some personal projects along with Kaggle competitions
+- 🔭 Learning every day and engaged in my personal projects
 
 - 🌱 Completed Master's Degree in Applied Statistics and Data Science at Jahangirnagar University
 
